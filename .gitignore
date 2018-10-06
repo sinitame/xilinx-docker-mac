@@ -1,0 +1,6 @@
+#Mac related
+.DS_Store
+
+#Local files
+Xilinx.lic
+sdx/
